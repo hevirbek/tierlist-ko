@@ -69,6 +69,8 @@ const listOfImages = [
     'https://raw.githubusercontent.com/hevirbek/tierlist-ko/main/casting/furkan.webp',
     'https://raw.githubusercontent.com/hevirbek/tierlist-ko/main/casting/cagri.webp',
     'https://raw.githubusercontent.com/hevirbek/tierlist-ko/main/casting/elif.webp',
+    'https://raw.githubusercontent.com/hevirbek/tierlist-ko/main/casting/sedat.webp',
+    'https://raw.githubusercontent.com/hevirbek/tierlist-ko/main/casting/bilgehan.webp',
 ]
 
 
