@@ -22,7 +22,7 @@ const createCard = (imagePath) => {
 const appendImage = (card, imagePath) => {
     const image = document.createElement('img');
     image.width = 100;
-    image.height = 85;
+    image.height = 100;
     image.src = imagePath;
     image.style.pointerEvents = 'none';
     image.style.objectFit = 'cover';
@@ -78,7 +78,7 @@ listOfImages.forEach((imagePath) => {
 
 
 const download = (event) => {
-    const board = document.querySelector('#dw-content');
+    const board = document.querySelector('#board');
     html2canvas(board
         , {
             allowTaint: true,
