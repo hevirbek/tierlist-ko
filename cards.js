@@ -78,7 +78,7 @@ listOfImages.forEach((imagePath) => {
 
 
 const download = (event) => {
-    const board = document.querySelector('#board');
+    const board = document.querySelector('#dw-content');
     html2canvas(board
         , {
             allowTaint: true,
